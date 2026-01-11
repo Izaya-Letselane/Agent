@@ -1,7 +1,7 @@
 # Agent
 To run application use the following two commands on your virtual studio code:
-pip install -r requirements.txt
-streamlit run app.py  
+1.pip install -r requirements.txt
+2.streamlit run app.py  
 
 NB- The app will not generate an output because I have ran out of tokens on my gemini api key, if you do have it you can use yours by creating .env file
 
